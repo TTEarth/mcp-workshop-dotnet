@@ -63,7 +63,7 @@ Refer to the [README](../README.md#prerequisites) doc for preparation.
               -Destination $REPOSITORY_ROOT/.github/copilot-instructions.md -Force
     ```
 
-1. Open `.github/copilot-instructions.md` and replace `https://github.com/YOUR_USERNAME/YOUR_REPO_NAME` with yours. For example, `https://github.com/octocat/monkey-app`.
+1. Open `.github/copilot-instructions.md` and replace `https://github.com/ttearth/YOUR_REPO_NAME` with yours. For example, `https://github.com/octocat/monkey-app`.
 
 ## Scaffold Console App
 
